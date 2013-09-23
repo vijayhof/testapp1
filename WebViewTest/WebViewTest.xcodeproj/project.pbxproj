@@ -31,6 +31,15 @@
 		67382FDE17C3E89D00044903 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 67382FAA17C3E89D00044903 /* UIKit.framework */; };
 		67382FDF17C3E89D00044903 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 67382FAC17C3E89D00044903 /* Foundation.framework */; };
 		67382FE717C3E89D00044903 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 67382FE517C3E89D00044903 /* InfoPlist.strings */; };
+		67967DB617F0DB77009823A7 /* AppDelegate.h in Sources */ = {isa = PBXBuildFile; fileRef = 67382FB917C3E89D00044903 /* AppDelegate.h */; };
+		67967DB717F0DB77009823A7 /* FirstViewController.h in Sources */ = {isa = PBXBuildFile; fileRef = 67382FC817C3E89D00044903 /* FirstViewController.h */; };
+		67967DB817F0DB77009823A7 /* SecondViewController.h in Sources */ = {isa = PBXBuildFile; fileRef = 67382FCF17C3E89D00044903 /* SecondViewController.h */; };
+		67967DB917F0DB77009823A7 /* WebViewController.h in Sources */ = {isa = PBXBuildFile; fileRef = 673155DC17C4159C00B1D42F /* WebViewController.h */; };
+		67967DBA17F0DB77009823A7 /* MixedTableViewController.h in Sources */ = {isa = PBXBuildFile; fileRef = 67130F2317ECF11800CDBFD9 /* MixedTableViewController.h */; };
+		67967DBB17F0DB77009823A7 /* first.png in Sources */ = {isa = PBXBuildFile; fileRef = 67382FCB17C3E89D00044903 /* first.png */; };
+		67967DBC17F0DB77009823A7 /* first@2x.png in Sources */ = {isa = PBXBuildFile; fileRef = 67382FCD17C3E89D00044903 /* first@2x.png */; };
+		67967DBD17F0DB77009823A7 /* second.png in Sources */ = {isa = PBXBuildFile; fileRef = 67382FD217C3E89D00044903 /* second.png */; };
+		67967DBE17F0DB77009823A7 /* second@2x.png in Sources */ = {isa = PBXBuildFile; fileRef = 67382FD417C3E89D00044903 /* second@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -308,6 +317,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				67967DB617F0DB77009823A7 /* AppDelegate.h in Sources */,
+				67967DB717F0DB77009823A7 /* FirstViewController.h in Sources */,
+				67967DB817F0DB77009823A7 /* SecondViewController.h in Sources */,
+				67967DB917F0DB77009823A7 /* WebViewController.h in Sources */,
+				67967DBA17F0DB77009823A7 /* MixedTableViewController.h in Sources */,
+				67967DBB17F0DB77009823A7 /* first.png in Sources */,
+				67967DBC17F0DB77009823A7 /* first@2x.png in Sources */,
+				67967DBD17F0DB77009823A7 /* second.png in Sources */,
+				67967DBE17F0DB77009823A7 /* second@2x.png in Sources */,
 				67382FB717C3E89D00044903 /* main.m in Sources */,
 				67382FBB17C3E89D00044903 /* AppDelegate.m in Sources */,
 				67382FCA17C3E89D00044903 /* FirstViewController.m in Sources */,
