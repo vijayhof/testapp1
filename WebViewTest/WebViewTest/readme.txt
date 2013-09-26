@@ -2,5 +2,5 @@
 
 Next todo
 
-1. add table view controller, that has native cell and webview cell. show html cell for e.g. poi detail with image, etc
+1. Modify html cell to show proper UI e.g. poi detail with image, etc. Would also need to include good native design for comparison reasons
 2. 
